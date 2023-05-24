@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"group","id":"a3799a041f567e33","x":-80,"y":680,"width":970,"height":340,"label":"backend"},
+		{"type":"text","text":"Main","id":"247db3719a5b80f1","x":-280,"y":180,"width":120,"height":60},
+		{"type":"text","text":"Homework","id":"0493ce3f426aa267","x":490,"y":180,"width":140,"height":60},
+		{"type":"text","text":"Student Pics","id":"b0231fc270fe966d","x":270,"y":180,"width":120,"height":60},
+		{"type":"text","text":"Student List","id":"1b64d9e8337f42bb","x":-40,"y":180,"width":120,"height":60},
+		{"type":"text","text":"cleaning shift","id":"5cc91117207c39d3","x":-205,"y":420,"width":220,"height":60},
+		{"type":"text","text":"student no. :\nname :\ngender:\nimages:","id":"e2b2f205233ce2a0","x":230,"y":720,"width":170,"height":140},
+		{"type":"text","text":"About","id":"de487ecc7b6f8866","x":1020,"y":180,"width":120,"height":60},
+		{"type":"text","text":"Class E11","id":"dc0f34be4c16ab39","x":365,"y":-180,"width":125,"height":60},
+		{"type":"text","text":"Files","id":"a60c82542547fa1e","x":740,"y":180,"width":140,"height":60},
+		{"type":"text","text":"homeworks:","id":"d80dfecb9c43f33b","x":450,"y":730,"width":170,"height":70},
+		{"type":"text","text":"subject:\ntime:","id":"a820db88c579bbfb","x":-45,"y":742,"width":170,"height":58},
+		{"type":"text","text":"Time Table & Subject","id":"70d712a98929f765","x":-520,"y":420,"width":220,"height":60},
+		{"type":"text","text":"files:","id":"04e5ce4e03dd8f8f","x":700,"y":730,"width":140,"height":60},
+		{"type":"text","text":"Database","id":"29205ceea01ab973","x":445,"y":930,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"fbd4b0b667dc49e3","fromNode":"247db3719a5b80f1","fromSide":"bottom","toNode":"70d712a98929f765","toSide":"top"},
+		{"id":"fdc57c4a900ac226","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"247db3719a5b80f1","toSide":"top"},
+		{"id":"6bc8c9a533e9c264","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"1b64d9e8337f42bb","toSide":"top"},
+		{"id":"dab03f216ecca35e","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"b0231fc270fe966d","toSide":"top"},
+		{"id":"bb144f946ab09711","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"0493ce3f426aa267","toSide":"top"},
+		{"id":"8092b7931cd28873","fromNode":"e2b2f205233ce2a0","fromSide":"top","toNode":"b0231fc270fe966d","toSide":"bottom","label":"student no.:\nname:\nimages:"},
+		{"id":"405f86d38feae753","fromNode":"e2b2f205233ce2a0","fromSide":"top","toNode":"1b64d9e8337f42bb","toSide":"bottom","label":"student no:\nname:\ngender:"},
+		{"id":"bc8c20a9b023a55d","fromNode":"29205ceea01ab973","fromSide":"top","toNode":"d80dfecb9c43f33b","toSide":"bottom"},
+		{"id":"3d4ad7a433e5f7e2","fromNode":"d80dfecb9c43f33b","fromSide":"top","toNode":"0493ce3f426aa267","toSide":"bottom"},
+		{"id":"a3ff956720034610","fromNode":"04e5ce4e03dd8f8f","fromSide":"top","toNode":"a60c82542547fa1e","toSide":"bottom"},
+		{"id":"fa26272fc39fdbed","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"a60c82542547fa1e","toSide":"top"},
+		{"id":"95318997341bf28f","fromNode":"e2b2f205233ce2a0","fromSide":"bottom","toNode":"29205ceea01ab973","toSide":"left"},
+		{"id":"5187803d3fe0087a","fromNode":"04e5ce4e03dd8f8f","fromSide":"bottom","toNode":"29205ceea01ab973","toSide":"right"},
+		{"id":"169af9389bedc7fa","fromNode":"dc0f34be4c16ab39","fromSide":"bottom","toNode":"de487ecc7b6f8866","toSide":"top"},
+		{"id":"9455fef6b7cd9566","fromNode":"a820db88c579bbfb","fromSide":"top","toNode":"70d712a98929f765","toSide":"bottom"},
+		{"id":"b2187395a20892f7","fromNode":"29205ceea01ab973","fromSide":"left","toNode":"a820db88c579bbfb","toSide":"bottom"},
+		{"id":"68e342f52368c5fd","fromNode":"a820db88c579bbfb","fromSide":"top","toNode":"5cc91117207c39d3","toSide":"bottom"},
+		{"id":"4d27a57346d7cfd1","fromNode":"5cc91117207c39d3","fromSide":"top","toNode":"247db3719a5b80f1","toSide":"bottom"}
+	]
+}
