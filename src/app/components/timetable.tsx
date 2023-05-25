@@ -20,18 +20,15 @@ export default function Table(){
                     </tr>
                 </thead>
                 <tbody className="text-center">
-                    <tr className="">
+                    <tr>
                         <td className="py-10 bg-[#242424]">จันทร์</td>
-
-                        <td className="border-t border-l col-span-2 text-right duration-300 hover:bg-[#0e0e0e]" >วิทยาการคํานวณ</td>
-                        <td className="border-t duration-300 hover:bg-[#0e0e0e]" ></td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]" >สังคมศึกษา</td>
+                        <td className="border-t border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>วิทยาการคํานวณ</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">สังคมศึกษา</td>
                         <td className="border-t duration-300"></td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]" >ภาษาไทย</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]" >คณิตศาสตร์ AI</td>
-                        <td className="border-t duration-300 text-right hover:bg-[#0e0e0e]" >ฟิสิกส์ AI</td>
-                        <td className="border-t duration-300 hover:bg-[#0e0e0e]" ></td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]" >LAB AI</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาไทย</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">คณิตศาสตร์ AI</td>
+                        <td className="border-t duration-300 hover:bg-[#0e0e0e]" colSpan={2}>ฟิสิกส์ AI</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">LAB AI</td>
                     </tr>
                 </tbody>
                 <tbody className="text-center">
@@ -43,8 +40,7 @@ export default function Table(){
                         <td className="border duration-300 hover:bg-[#0e0e0e]">เคมี</td>
                         <td className="duration-300"></td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">แนะแนว</td>
-                        <td className=" duration-300 text-right hover:bg-[#0e0e0e]">ระบบฐานข้อมูล</td>
-                        <td className="border-t duration-300 hover:bg-[#0e0e0e]"></td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]" colSpan={2}>ระบบฐานข้อมูล</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ชุมนุม</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">LAB AI</td>
                     </tr>
@@ -68,12 +64,10 @@ export default function Table(){
                     <tr className="">
                         <td className="py-10 bg-[#242424]">พฤหัสบดี</td>
 
-                        <td className="border-l duration-300 text-right hover:bg-[#0e0e0e]">เคมี</td>
-                        <td className="duration-300 hover:bg-[#0e0e0e]"></td>
+                        <td className="border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>เคมี</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ชีวะ</td>
                         <td className="duration-300" ></td>
-                        <td className="border-l text-right duration-300 hover:bg-[#0e0e0e]">การเขียนโปรแกรม Ai</td>
-                        <td className=" duration-300 hover:bg-[#0e0e0e]"></td>
+                        <td className="border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>การเขียนโปรแกรม Ai</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาอังกฤษ</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">คณิตศาสตร์</td>
                         <td className=" border duration-300 hover:bg-[#0e0e0e] ">-</td>
@@ -83,8 +77,7 @@ export default function Table(){
                     <tr className="">
                         <td className="py-10 rounded-bl-3xl bg-[#242424]">ศุกร์</td>
 
-                        <td className="border-l border-t duration-300 text-right hover:bg-[#0e0e0e]">ชีวะ</td>
-                        <td className="border-t duration-300 hover:bg-[#0e0e0e]"></td>
+                        <td className="border-l border-t duration-300 hover:bg-[#0e0e0e]" colSpan={2}>ชีวะ</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">สุขศึกษา</td>
                         <td className="duration-300"></td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">คณิตศาสตร์ AI</td>
@@ -94,7 +87,6 @@ export default function Table(){
                         <td className="duration-300 rounded-tr-3xl hover:bg-[#0e0e0e]">-</td>
                     </tr>
                 </tbody>
-
             </table>
             </main>
     )
