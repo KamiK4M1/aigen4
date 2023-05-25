@@ -2,7 +2,7 @@
 
 export default function Table(){
     return(
-        <main className="rounded-3xl bg-[#1f1f1f] border">
+        <main className="rounded-3xl bg-[#1f1f1f] border overflow-x-auto ">
             <table className="shadow-2x w-full justify-center py-5 px-5">
                 <thead>
                     <tr className="">
