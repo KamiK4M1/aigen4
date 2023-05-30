@@ -131,7 +131,7 @@ export default function Student() {
     {
       id: 22,
       studentId: 43861,
-      fullName: "นายศุภวิฒฌ์ กิจโอสถ",
+      fullName: "เด็กชายธีร์ทัศน์ เตโชติประเสริฐ",
       nickname: "ทัช",
     },
     {
