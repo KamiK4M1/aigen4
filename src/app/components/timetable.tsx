@@ -52,7 +52,7 @@ export default function Table(){
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ศิลปะ</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">พระพุทธศาสนา</td>
                         <td className="duration-300 " >พัก</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาอังกฤษ A</td>   
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาอังกฤษ T.</td>   
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ฟิสิกส์</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาอังกฤษ</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">คณิตศาสตร์ AI</td>

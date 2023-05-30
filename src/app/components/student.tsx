@@ -101,7 +101,7 @@ export default function Student() {
     {
       id: 17,
       studentId: 43848,
-      fullName: "เด็กหญิงแพรวไพลิน แซ่จ",
+      fullName: "เด็กหญิงแพรวไพลิน แซ่จู",
       nickname: "จูจู",
     },
     {
@@ -161,7 +161,7 @@ export default function Student() {
     {
       id: 27,
       studentId: 44084,
-      fullName: "เด็กชายศิรพงษ์ บุญทรัพย",
+      fullName: "เด็กชายศิรพงษ์ บุญทรัพย์",
       nickname: "เคน",
     },
     {
