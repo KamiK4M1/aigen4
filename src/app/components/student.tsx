@@ -1,5 +1,7 @@
 "use client";
 
+import { Container } from "@nextui-org/react";
+
 export default function Student() {
   const students = [
     {
@@ -210,6 +212,7 @@ export default function Student() {
 
   return (
     <main className="rounded-3xl bg-[#1f1f1f] border overflow-x-auto my-4 mx-auto">
+      <div className="table-container">
       <table className="table mx-auto max-w-4xl w-full">
         <thead>
           <tr>
@@ -245,7 +248,8 @@ export default function Student() {
             </tr>
           ))}
         </tbody>
-      </table>
+      </table> 
+      </div>
     </main>
   );
 }
