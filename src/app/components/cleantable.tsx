@@ -32,7 +32,7 @@ export default function Cleaning_table(){
                         <td className="border duration-300 hover:bg-[#0e0e0e]">คอปเตอร์</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">หลุน</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">กำปั่น</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">-</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">โอม</td>
                     </tr>
                 </tbody>
                 <tbody className="text-center">
