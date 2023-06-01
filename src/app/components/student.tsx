@@ -208,6 +208,12 @@ export default function Student() {
       fullName: "เด็กหญิงอภิสุตา แซ่เฮง",
       nickname: "เพรงเพลง",
     },
+    {
+      id: 36,
+      studentId: 43830,
+      fullName: "นายณนัทพงศ์ ฉัตรวัชรานุวัติ",
+      nickname: "โอม",
+    },
   ];
 
   return (
