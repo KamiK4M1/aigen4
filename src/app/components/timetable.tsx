@@ -39,7 +39,7 @@ export default function Table(){
                         <td className="border duration-300 hover:bg-[#0e0e0e]">เคมี</td>
                         <td className="duration-300"></td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">แนะแนว</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]" colSpan={2}>ระบบฐานข้อมูล</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]" colSpan={2}>ไฟฟ้าและอิเล็กทรอนิกส์เบื้องต้น</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ชุมนุม</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">LAB AI</td>
                     </tr>

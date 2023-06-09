@@ -197,23 +197,29 @@ export default function Student() {
       nickname: "กำปั่น",
     },
     {
-      id: 34,
+      id: 33,
       studentId: 47128,
       fullName: "เด็กหญิงลดาชมพู อิ่มร้อยเอ็ด",
       nickname: "มัดหมี่",
     },
     {
-      id: 35,
+      id: 34,
       studentId: 47129,
       fullName: "เด็กหญิงอภิสุตา แซ่เฮง",
       nickname: "เพรงเพลง",
     },
     {
-      id: 36,
+      id: 35,
       studentId: 43830,
       fullName: "นายณนัทพงศ์ ฉัตรวัชรานุวัติ",
       nickname: "โอม",
     },
+    {
+      id: 36,
+      studentId: 47107,
+      fullName: "นายอัครวัฒน์ ขาวน้อยวโรดม",
+      nickname: "เจมส์",
+    }
   ];
 
   return (
