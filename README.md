@@ -37,14 +37,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Tools:
 ```bash
     npm
-    pnpm #npm add pnpm
-    react #npm install --dev @types/react
-    nextjs #npx create-next-app@latest
-    tailwind #pnpm add tailwind
-    typescript #pnpm add typescript
-    @mdi/react #pnpm add @mdi/react
-    @mdi/js #pnpm add @mdi/js
-    pnpm install #pnpm install
+    pnpm            #npm add pnpm
+    react           #npm install --dev @types/react
+    nextjs          #npx create-next-app@latest
+    tailwind        #pnpm add tailwind
+    typescript      #pnpm add typescript
+    @mdi/react      #pnpm add @mdi/react
+    @mdi/js         #pnpm add @mdi/js
+    pnpm install    #pnpm install
     pnpm            #npm add pnpm
     pnpm install    #pnpm install
     react           #npm install --dev @types/react
