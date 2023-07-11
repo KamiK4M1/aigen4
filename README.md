@@ -69,6 +69,5 @@ Visual Studio Code Extensions:
     Pylance
     Python
     Tailwind CSS IntelliSense
-
+```
     DON'T FORGET DARK THEME FOR YOUR IDE!!!!!
-```bash
