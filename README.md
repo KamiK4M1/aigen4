@@ -70,4 +70,4 @@ Visual Studio Code Extensions:
     Python
     Tailwind CSS IntelliSense
 ```
-    DON'T FORGET DARK THEME FOR YOUR IDE!!!!!
+## DON'T FORGET DARK THEME FOR YOUR IDE!!!!!
