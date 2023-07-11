@@ -199,7 +199,7 @@ export default function Student() {
     {
       id: 33,
       studentId: 47128,
-      fullName: "เด็กหญิงลดาชมพู อิ่มร้อยเอ็ด",
+      fullName: "นางสาวลดาชมพู อิ่มร้อยเอ็ด",
       nickname: "มัดหมี่",
     },
     {

@@ -13,11 +13,17 @@ export default function Homeworks_table(){
                     </tr>
                 </thead>
                 <tbody className="text-center">
+                <tr className="">
+                        <td className="border-b border-r duration-300 py-5 hover:bg-[#0e0e0e]">คณิตศาสตร์</td>
+                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">สอบเก็บคะแนน</td>
+                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">เรื่องการดำเนินระหว่างเซต - จบเรื่องเซต</td>
+                        <td className="border-b duration-300 hover:bg-[#0e0e0e]" >16/6/2023</td>
+                    </tr>
                     <tr className="">
                         <td className="border-b border-r duration-300 py-5 hover:bg-[#0e0e0e]">ภาษาไทย</td>
-                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">ท่องกลอน</td>
-                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">ท่องกลอน หน้า 42</td>
-                        <td className="border-b duration-300 hover:bg-[#0e0e0e]" >19/6/2023</td>
+                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">สอบท่องอาขยาน</td>
+                        <td className="border-b border-r duration-300 hover:bg-[#0e0e0e]">ท่องอาขยาน หน้า 42</td>
+                        <td className="border-b duration-300 hover:bg-[#0e0e0e]" >30/6/2023</td>
                     </tr>
                     <tr className="">
                         <td className="border-b border-r duration-300 py-5 hover:bg-[#0e0e0e]" >วิทยาการคํานวณ</td>
@@ -29,7 +35,7 @@ export default function Homeworks_table(){
                         <td className="border-r duration-300 py-5 hover:bg-[#0e0e0e]">เคมี</td>
                         <td className="border-r duration-300 hover:bg-[#0e0e0e]">ท่องตารางธาตุ</td>
                         <td className="border-r duration-300 hover:bg-[#0e0e0e]">หมู่ 1a - 8a ธาตุ transition</td>
-                        <td className="duration-300 hover:bg-[#0e0e0e]" >ยังไม่กำหนด</td>
+                        <td className="duration-300 hover:bg-[#0e0e0e]" >30/6/2023</td>
                     </tr>
                 </tbody>
             </table>

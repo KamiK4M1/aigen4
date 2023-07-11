@@ -66,7 +66,7 @@ export default function Table(){
                         <td className="border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>เคมี</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ชีวะ</td>
                         <td className="duration-300" ></td>
-                        <td className="border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>การเขียนโปรแกรม Ai</td>
+                        <td className="border-l duration-300 hover:bg-[#0e0e0e]" colSpan={2}>การเขียนโปรแกรม AI</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ภาษาอังกฤษ</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">คณิตศาสตร์</td>
                         <td className=" border duration-300 hover:bg-[#0e0e0e] ">-</td>
