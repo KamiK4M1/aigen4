@@ -27,7 +27,7 @@ export default function Navbar(){
             <Link href="homeworks" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 :bg-orange-400 p-5 rounded-full ease-linear duration-100 flex flex-row'>
               <Icon path={mdiFileAlert} size={1.2} className='pr-1'/>การบ้าน
             </div></Link>
-            <Link href="files" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 :bg-orange-400 p-5 rounded-full ease-linear duration-100 flex flex-row'>
+            <Link href="https://drive.google.com/drive/folders/11h_FSmP1tQ6QIgNvSp7d7CAmL9Jgucuq?usp=drive_link" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 :bg-orange-400 p-5 rounded-full ease-linear duration-100 flex flex-row'>
               <Icon path={mdiFileCloud} size={1.2} className='pr-1'/>ไฟล์งาน
             </div></Link>
             <Link href="about" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 :bg-orange-400 p-5 rounded-full ease-linear duration-100 flex flex-row'>

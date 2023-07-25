@@ -13,7 +13,7 @@ export default function Student() {
     {
       id: 2,
       studentId: 43712,
-      fullName: "นายพสธร ยาสมุร",
+      fullName: "นายพสธร ยาสมุทร",
       nickname: "ปกป้อง",
     },
     {
