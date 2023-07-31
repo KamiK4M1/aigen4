@@ -3,12 +3,12 @@
 
 export default function Cleaning_table(){
   return(
-      <main className=" rounded-3xl bg-[#1f1f1f] border overflow-x-auto mx-auto ">
-          <table className="shadow-2x w-full justify-center py-5 px-5 mx-auto">
+      <main className=" rounded-3xl bg-[#1f1f1f] border mx-auto">
+          <table className="shadow-2x w-full justify-center py-5 px-5 mx-auto table-fixed overflow-x-auto">
               <thead>
                   <tr className="">
                       <th className="py-5 "><p>วัน</p></th>
-                      <th className="duration-300 rounded-tr-3xl  bg-[#242424] hover:bg-[#0e0e0e]" colSpan={7}><p>ผู้รับผิดชอบ</p></th>
+                      <th className="duration-300 rounded-tr-3xl  bg-[#242424] hover:bg-[#0e0e0e]" colSpan={8}><p>ผู้รับผิดชอบ</p></th>
                   </tr>
               </thead>
               <tbody className="text-center">
@@ -75,7 +75,7 @@ export default function Cleaning_table(){
                         <td className="border-l border-t duration-300 hover:bg-[#0e0e0e]">แอลฟ่า</td>
                         <td className="border-l border-t border-r duration-300 hover:bg-[#0e0e0e]">ปลื้ม</td>
                         <td className="duration-300 rounded-tr-3xl hover:bg-[#0e0e0e]">มีมี่</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">-</td>
+                        <td className="border-l duration-300 hover:bg-[#0e0e0e]">-</td>
                     </tr>
                 </tbody>
             </table>
