@@ -10,7 +10,7 @@ export default function Navbar(){
           <div className='p-8'>
 
             <Link href="#" ><div className='hover:bg-slate-800 hover:text-black hover:scale-110 p-5 rounded-full ease-linear duration-100 flex flex-row'>
-              <img src='images/aisw2.png' width='80x'/>
+              <img src='images/aisw2.png' alt='logo' width='80x'/>
             </div></Link>
             
           </div>
