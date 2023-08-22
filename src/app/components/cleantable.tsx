@@ -16,8 +16,8 @@ export default function Cleaning_table(){
                       <td className="py-10 bg-[#242424]">จันทร์</td>
                       <td className="border-t border-l duration-300 hover:bg-[#0e0e0e]">กำปั่น</td>
                       <td className="border duration-300 hover:bg-[#0e0e0e]">หลุน</td>
-                      <td className="border duration-300 hover:bg-[#0e0e0e]">เพรงเพลง</td>
-                      <td className="border duration-300 hover:bg-[#0e0e0e]">เคน</td>
+                      <td className="border duration-300 hover:bg-[#0e0e0e]">ปัน</td>
+                      <td className="border duration-300 hover:bg-[#0e0e0e]">วิน</td>
                       <td className="border duration-300 hover:bg-[#0e0e0e]">นนท์</td>
                       <td className="border-t duration-300 hover:bg-[#0e0e0e]">วิน</td>
                       <td className="border duration-300 hover:bg-[#0e0e0e]">ก้อง</td>
@@ -27,10 +27,10 @@ export default function Cleaning_table(){
               <tbody className="text-center">
                   <tr className="">
                       <td className="py-10 bg-[#242424]">อังคาร</td> 
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">ปัน</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">วิน</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">เพรงเพลง</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">เคน</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">เว็บไซด์</td>
-                        <td className="border duration-300 hover:bg-[#0e0e0e]">คอปเตอร์</td>
+                        <td className="border duration-300 hover:bg-[#0e0e0e]">มีมี่</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">มัดหมี่</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">เต้าหู้</td>
                         <td className="border duration-300 hover:bg-[#0e0e0e]">ทัช</td>
@@ -74,7 +74,7 @@ export default function Cleaning_table(){
                         <td className="border-l border-t duration-300 hover:bg-[#0e0e0e]">อิน</td>
                         <td className="border-l border-t duration-300 hover:bg-[#0e0e0e]">แอลฟ่า</td>
                         <td className="border-l border-t border-r duration-300 hover:bg-[#0e0e0e]">ปลื้ม</td>
-                        <td className="duration-300 rounded-tr-3xl hover:bg-[#0e0e0e]">มีมี่</td>
+                        <td className="duration-300 rounded-tr-3xl hover:bg-[#0e0e0e]">คอปเตอร์</td>
                         <td className="border-l duration-300 hover:bg-[#0e0e0e]">-</td>
                     </tr>
                 </tbody>
