@@ -14,7 +14,7 @@ export default function Cleaning_table(){
               <tbody className="text-center">
                   <tr>
                       <td className="py-10 bg-[#242424]">จันทร์</td>
-                      <td className="border-t border-l duration-300 hover:bg-[#0e0e0e]">กำปั่น</td>
+                      <td className="border-t border-l duration-300 hover:bg-[#0e0e0e]">กำปั่น</td>    
                       <td className="border duration-300 hover:bg-[#0e0e0e]">หลุน</td>
                       <td className="border duration-300 hover:bg-[#0e0e0e]">เพรงเพลง</td>
                       <td className="border duration-300 hover:bg-[#0e0e0e]">เคน</td>
