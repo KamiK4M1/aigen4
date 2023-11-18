@@ -25,7 +25,7 @@ export default function Student() {
     {
       id: 4,
       studentId: 43822,
-      fullName: "เด็กชายจอมทัพ มลทวีไพศาล",
+      fullName: "นายจอมทัพ มลทวีไพศาล",
       nickname: "คอปเตอร์",
     },
     {
@@ -37,7 +37,7 @@ export default function Student() {
     {
       id: 6,
       studentId: 43824,
-      fullName: "เด็กชายชยพล ไกรศิริเดชา",
+      fullName: "นายชยพล ไกรศิริเดชา",
       nickname: "โอโซน",
     },
     {
@@ -61,13 +61,13 @@ export default function Student() {
     {
       id: 10,
       studentId: 43831,
-      fullName: "เด็กหญิงณวรากุล พนาพิศาล",
+      fullName: "นางสาวณวรากุล พนาพิศาล",
       nickname: "พิทต้า",
     },
     {
       id: 11,
       studentId: 43835,
-      fullName: "เด็กชายดนัยวัฒน์ เลาหพันธ์",
+      fullName: "นายดนัยวัฒน์ เลาหพันธ์",
       nickname: "อิน",
     },
     {
@@ -103,13 +103,13 @@ export default function Student() {
     {
       id: 17,
       studentId: 43848,
-      fullName: "เด็กหญิงแพรวไพลิน แซ่จู",
+      fullName: "นางสาวแพรวไพลิน แซ่จู",
       nickname: "จูจู",
     },
     {
       id: 18,
       studentId: 43851,
-      fullName: "เด็กชายภูวิศ ฉัตรศิริ",
+      fullName: "นายภูวิศ ฉัตรศิริ",
       nickname: "ภู",
     },
     {
@@ -121,7 +121,7 @@ export default function Student() {
     {
       id: 20,
       studentId: 43858,
-      fullName: "เด็กชายศุภณัฐ ศุภอมรกุล",
+      fullName: "นายศุภณัฐ ศุภอมรกุล",
       nickname: "แอลฟ่า",
     },
     {
@@ -133,7 +133,7 @@ export default function Student() {
     {
       id: 22,
       studentId: 43861,
-      fullName: "เด็กชายธีร์ทัศน์ เตโชติประเสริฐ",
+      fullName: "นายธีร์ทัศน์ เตโชติประเสริฐ",
       nickname: "ทัช",
     },
     {
@@ -145,7 +145,7 @@ export default function Student() {
     {
       id: 24,
       studentId: 43959,
-      fullName: "เด็กชายกวิน อุณหกานต์",
+      fullName: "นายกวิน อุณหกานต์",
       nickname: "วิน",
     },
     {
@@ -158,12 +158,12 @@ export default function Student() {
       id: 26,
       studentId: 44068,
       fullName: "นายปัณณธร วิธินันทกิตต์",
-      nickname: "นน",
+      nickname: "นนท์",
     },
     {
       id: 27,
       studentId: 44084,
-      fullName: "เด็กชายศิรพงษ์ บุญทรัพย์",
+      fullName: "นายศิรพงษ์ บุญทรัพย์",
       nickname: "เคน",
     },
     {
@@ -175,7 +175,7 @@ export default function Student() {
     {
       id: 29,
       studentId: 44319,
-      fullName: "เด็กชายก้องภพ บุญราศรี",
+      fullName: "นายก้องภพ บุญราศรี",
       nickname: "ก้อง",
     },
     {
@@ -187,13 +187,13 @@ export default function Student() {
     {
       id: 31,
       studentId: 47125,
-      fullName: "เด็กชายกฤตวัฒ จาง",
+      fullName: "นายกฤตวัฒ จาง",
       nickname: "หลุน",
     },
     {
       id: 32,
       studentId: 47126,
-      fullName: "เด็กชายปรัตถกร นาครธรรม",
+      fullName: "นายปรัตถกร นาครธรรม",
       nickname: "กำปั่น",
     },
     {
@@ -205,7 +205,7 @@ export default function Student() {
     {
       id: 34,
       studentId: 47129,
-      fullName: "เด็กหญิงอภิสุตา แซ่เฮง",
+      fullName: "นางสาวอภิสุตา แซ่เฮง",
       nickname: "เพรงเพลง",
     },
     {
