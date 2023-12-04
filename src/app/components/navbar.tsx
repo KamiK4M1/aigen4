@@ -15,7 +15,7 @@ export default function Navbar(){
             
           </div>
           <div className='p-8 flex flex-row'>
-            <Link href="#" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 p-5 rounded-full ease-linear duration-100 flex flex-row'>
+            <Link href="/" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 p-5 rounded-full ease-linear duration-100 flex flex-row'>
               <Icon path={mdiHome} size={1.2} className='pr-1'/>หน้าหลัก
             </div></Link>
             <Link href="members" ><div className='hover:bg-[#a82b2b] hover:text-black hover:scale-110 :bg-orange-400 p-5 rounded-full ease-linear duration-100 flex flex-row'>
