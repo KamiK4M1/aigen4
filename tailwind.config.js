@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '0F0F0F',        
+        'primary': '0F0F0F',
       },
     },
   },
@@ -28,5 +28,5 @@ module.exports = {
   daisyui: {
     themes: ["dark"],
   },
-  
+
 }

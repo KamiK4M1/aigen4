@@ -5,10 +5,12 @@ import Image from 'next/image';
 import Link from 'next/link';
 import ig from '../pic/ig.png';
 import fb from '../pic/fb.png';
+import pic0 from '../std-pic/0.jpg';
 import pic1 from '../std-pic/1.jpg';
-import pic2 from '../std-pic/1.jpg';
+import pic2 from '../std-pic/2.jpg';
 import pic3 from '../std-pic/3.jpg';
 import pic5 from '../std-pic/5.jpg';
+import pic10 from '../std-pic/10.jpg';
 import pic14 from '../std-pic/14.jpg';
 import pic19 from '../std-pic/19.jpg';
 import pic35 from '../std-pic/35.jpg';
@@ -74,7 +76,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="4" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="4" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">คอปเตอร์</h2>
@@ -112,7 +114,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="6" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="6" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">โอโซน</h2>
@@ -130,7 +132,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="7" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="7" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">กัปตัน</h2>
@@ -148,7 +150,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="8" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="8" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เว็บไซด์</h2>
@@ -168,7 +170,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="9" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="9" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ฟิว</h2>
@@ -186,7 +188,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="10" /></figure>
+                        <figure><Image src={pic10} width={500} height={500} alt="10" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">พิทต้า</h2>
@@ -204,7 +206,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="11" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="11" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">อิน</h2>
@@ -222,7 +224,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="12" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="12" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">จิงจิง</h2>
@@ -242,7 +244,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="13" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="13" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เอเบิ้ล</h2>
@@ -278,7 +280,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="15" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="15" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เกน</h2>
@@ -296,7 +298,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="16" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="16" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">มีมี่</h2>
@@ -316,7 +318,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="17" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="17" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">จูจู</h2>
@@ -334,7 +336,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="18" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="18" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ภู</h2>
@@ -370,7 +372,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="20" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="20" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">แอลฟ่า</h2>
@@ -390,7 +392,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="21" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="21" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">พี</h2>
@@ -408,7 +410,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="22" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="22" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ทัช</h2>
@@ -426,7 +428,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="23" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="23" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เต้</h2>
@@ -444,7 +446,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="24" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="24" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">วิน</h2>
@@ -464,7 +466,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="25" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="25" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ปัน</h2>
@@ -482,7 +484,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="26" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="26" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">นนท์</h2>
@@ -500,7 +502,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="27" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="27" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เคน</h2>
@@ -518,7 +520,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="28" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="28" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">วิน</h2>
@@ -538,7 +540,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="29" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="29" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ก้อง</h2>
@@ -556,7 +558,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="30" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="30" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เค</h2>
@@ -574,7 +576,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="31" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="31" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">หลุน</h2>
@@ -592,7 +594,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="32" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="32" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">กำปั่น</h2>
@@ -612,7 +614,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic1} width={500} height={500} alt="34" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="34" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">มัดหมี่</h2>
@@ -648,7 +650,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="36" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="36" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">โอม</h2>
@@ -666,7 +668,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic3} width={500} height={500} alt="37" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="37" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เจมส์</h2>
