@@ -1,5 +1,14 @@
+const daisyui = require('daisyui');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        'primary': '0F0F0F',        
+      },
+    },
+  },
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
@@ -14,5 +23,6 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+
+  plugins: [daisyui],
 }

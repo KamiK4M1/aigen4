@@ -90,7 +90,7 @@ export default function Student() {
     },
     {
       id: 15,
-      studentId:  43844,
+      studentId: 43844,
       fullName: "นายพงศ์พัฒณศิริ สิริจิรการเจริญ",
       nickname: "เกน",
     },
@@ -197,25 +197,25 @@ export default function Student() {
       nickname: "กำปั่น",
     },
     {
-      id: 33,
+      id: 34,
       studentId: 47128,
       fullName: "นางสาวลดาชมพู อิ่มร้อยเอ็ด",
       nickname: "มัดหมี่",
     },
     {
-      id: 34,
+      id: 35,
       studentId: 47129,
       fullName: "นางสาวอภิสุตา แซ่เฮง",
       nickname: "เพรงเพลง",
     },
     {
-      id: 35,
+      id: 36,
       studentId: 43830,
       fullName: "นายณนัทพงศ์ ฉัตรวัชรานุวัติ",
       nickname: "โอม",
     },
     {
-      id: 36,
+      id: 37,
       studentId: 47107,
       fullName: "นายอัครวัฒน์ ขาวน้อยวโรดม",
       nickname: "เจมส์",
@@ -223,44 +223,44 @@ export default function Student() {
   ];
 
   return (
-    <main className="rounded-3xl bg-[#1f1f1f] border overflow-x-auto my-4 mx-auto">
-      <div className="table-container">
-      <table className="table mx-auto max-w-4xl w-full">
-        <thead>
-          <tr>
-            <th className="border-b py-5 rounded-tl-3xl bg-[#242424]">
-              <p>เลขที่</p>
-            </th>
-            <th className="border-b px-5 bg-[#242424]">
-              <p>รหัสนักเรียน</p>
-            </th>
-            <th className="border-b px-20 bg-[#242424]">
-              <p>ชื่อ - นามสกุล</p>
-            </th>
-            <th className="border-b px-5 rounded-tr-3xl bg-[#242424]">
-              <p>ชื่อเล่น</p>
-            </th>
-          </tr>
-        </thead>
-        <tbody className="text-center">
-          {students.map((student) => (
-            <tr key={student.id} className="duration-300 hover:bg-[#0e0e0e]">
-              <td className="border-b duration-300 py-4 hover:bg-[#0e0e0e]">
-                {student.id}
-              </td>
-              <td className="border-b duration-300 hover:bg-[#0e0e0e]">
-                {student.studentId}
-              </td>
-              <td className="border-b duration-300 text-left hover:bg-[#0e0e0e]">
-                {student.fullName}
-              </td>
-              <td className="border-b duration-300 hover:bg-[#0e0e0e]">
-                {student.nickname}
-              </td>
+    <main className="flex justify-center items-center">
+      <div className="table">
+        <table className="table mx-auto w-full">
+          <thead>
+            <tr>
+              <th className="border-b py-5 px-10 rounded-tl-3xl bg-[#242424]">
+                <p>เลขที่</p>
+              </th>
+              <th className="border-b px-10 bg-[#242424]">
+                <p>รหัสนักเรียน</p>
+              </th>
+              <th className="border-b px-20 bg-[#242424]">
+                <p>ชื่อ - นามสกุล</p>
+              </th>
+              <th className="border-b px-20 rounded-tr-3xl bg-[#242424]">
+                <p>ชื่อเล่น</p>
+              </th>
             </tr>
-          ))}
-        </tbody>
-      </table> 
+          </thead>
+          <tbody className="text-center">
+            {students.map((student) => (
+              <tr key={student.id} className="duration-300 hover:bg-[#0e0e0e] bg-[#1F1F1F]">
+                <td className="border-b duration-300 py-4  hover:bg-[#0e0e0e] bg-[#1F1F1F]">
+                  {student.id}
+                </td>
+                <td className="border-b duration-300 hover:bg-[#0e0e0e] bg-[#1F1F1F] px-10">
+                  {student.studentId}
+                </td>
+                <td className="border-b duration-300 text-left hover:bg-[#0e0e0e] bg-[#1F1F1F] px-10">
+                  {student.fullName}
+                </td>
+                <td className="border-b duration-300 hover:bg-[#0e0e0e] bg-[#1F1F1F] px-10">
+                  {student.nickname}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
     </main>
   );
