@@ -40,7 +40,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="2" /></figure>
+                        <figure><Image src={pic0} width={500} height={500} alt="2" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ปกป้อง</h2>
