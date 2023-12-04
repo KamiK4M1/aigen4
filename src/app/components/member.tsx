@@ -12,7 +12,9 @@ import pic3 from '../std-pic/3.jpg';
 import pic5 from '../std-pic/5.jpg';
 import pic10 from '../std-pic/10.jpg';
 import pic14 from '../std-pic/14.jpg';
+import pic17 from '../std-pic/17.jpg';
 import pic19 from '../std-pic/19.jpg';
+import pic20 from '../std-pic/20.jpg';
 import pic35 from '../std-pic/35.jpg';
 
 
@@ -318,7 +320,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic0} width={500} height={500} alt="17" /></figure>
+                        <figure><Image src={pic17} width={500} height={500} alt="17" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">จูจู</h2>
@@ -327,7 +329,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นางสาวแพรวไพลิน แซ่จู</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com/jul1ethasagun"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -363,7 +365,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นางสาวมุกดามณี นราธรสวัสดิกุล</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -372,7 +374,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic0} width={500} height={500} alt="20" /></figure>
+                        <figure><Image src={pic20} width={500} height={500} alt="20" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">แอลฟ่า</h2>
@@ -401,7 +403,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายศุภวิฒฌ์ กิจโอสถ</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -437,7 +439,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายสุวิจักขณ์ สารสอน</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -455,7 +457,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายกวิน อุณหกานต์</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -511,7 +513,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายศิรพงษ์ บุญทรัพย์</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -549,7 +551,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายก้องภพ บุญราศรี</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
@@ -677,7 +679,7 @@ export default function Member() {
                             <p className='pt-3 pb-1'>นายอัครวัฒน์ ขาวน้อยวโรดม</p>
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
-                                    <figure><Link href="https://www.instagram.com/possathorn_yas/"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
+                                    <figure><Link href="https://www.instagram.com"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
                                 </div>
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
