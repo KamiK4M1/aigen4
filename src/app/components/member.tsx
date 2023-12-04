@@ -11,6 +11,7 @@ import pic3 from '../std-pic/3.jpg';
 import pic5 from '../std-pic/5.jpg';
 import pic14 from '../std-pic/14.jpg';
 import pic19 from '../std-pic/19.jpg';
+import pic35 from '../std-pic/35.jpg';
 
 
 export default function Member() {
@@ -47,7 +48,7 @@ export default function Member() {
                             <div className='flex justify-between'>
                                 <div className="card-actions justify-start">
                                     <figure><Link href="https://www.instagram.com/possathorn_yas"><Image src={ig} width={40} height={40} alt={'ig'} /></Link></figure>
-                                </div>
+                                </div> 
                                 <div className="card-actions justify-end">
                                     <figure><Image src={fb} width={40} height={40} alt={'fb'} /></figure>
                                 </div>
@@ -629,7 +630,7 @@ export default function Member() {
                         </div>
                     </div>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic2} width={500} height={500} alt="35" /></figure>
+                        <figure><Image src={pic35} width={500} height={500} alt="35" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">เพรงเพลง</h2>
