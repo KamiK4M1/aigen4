@@ -27,6 +27,7 @@ module.exports = {
   plugins: [require("daisyui")],
   daisyui: {
     themes: ["dark"],
+    style: [ "bg-base-100"]
   },
 
 }

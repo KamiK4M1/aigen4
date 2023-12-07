@@ -15,6 +15,7 @@ import pic14 from '../std-pic/14.jpg';
 import pic17 from '../std-pic/17.jpg';
 import pic19 from '../std-pic/19.jpg';
 import pic20 from '../std-pic/20.jpg';
+import pic25 from '../std-pic/25.jpg';
 import pic35 from '../std-pic/35.jpg';
 
 
@@ -468,7 +469,7 @@ export default function Member() {
                 </div>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5">
-                        <figure><Image src={pic0} width={500} height={500} alt="25" /></figure>
+                        <figure><Image src={pic25} width={500} height={500} alt="25" /></figure>
                         <div className="card-body">
                             <div className='flex justify-between'>
                                 <h2 className="card-title justify-start">ปัน</h2>
