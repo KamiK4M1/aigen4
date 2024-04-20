@@ -22,7 +22,7 @@ import pic35 from '../std-pic/35.jpg';
 export default function Member() {
     return (
         <div>
-           <div className='flex-col  center justify-center min-[640px]:flex-col'>
+           <div className='flex-col flex-wrap  center justify-center min-[640px]:flex-col'>
                 <div className='flex center justify-center max-sm:flex-col'>
                     <div className="card w-80 bg-base-100 shadow-xl m-5 card-bordered">
                         <figure><Image src={pic1} width={500} height={500} alt="1" /></figure>

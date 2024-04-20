@@ -10,8 +10,8 @@ const mitr = Mitr({
 });
 
 export const metadata = {
-  title: '414 AI SW2 Classroom',
-  description: 'This page is made for 414 AI SW2 Classroom - Made By Kami and Kenny',
+  title: '514 AI SW2 Classroom',
+  description: 'This page is made for 514 AI SW2 Classroom - Made By Kami and Kenny',
 }
 
 export default function RootLayout({
